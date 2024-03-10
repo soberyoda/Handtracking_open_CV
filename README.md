@@ -1,2 +1,2 @@
 # Handtracking_open_CV
-## mediapipe
+## simple game: rock-paper-scisors 
